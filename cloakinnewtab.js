@@ -1,6 +1,11 @@
 (function () {
     var url = "https://blobby-boi.github.io/BlobeBM/main.html";
 
+    // Add leave confirmation
+    window.onbeforeunload = function () {
+        return "Are you sure you want to leave this page?";
+    };
+
     // Clear the current document
     document.documentElement.innerHTML = "";
 
