@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://blobby-boi.github.io/BlobeBM/main.html";
+    var url = "https://mine-craft.io";
 
     // Add leave confirmation
     window.onbeforeunload = function () {
