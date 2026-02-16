@@ -1,5 +1,5 @@
 (function () {
-    var url = "https://blobby-boi.github.io/BlobeBM/main.html";
+    var url = "https://blobby-boii.github.io/BlobeBM/main.html";
 
     // Set the icon for the window
     win.document.head.innerHTML += '<link rel="icon" href="lexialogo.png" type="image/png">';
